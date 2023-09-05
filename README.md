@@ -8,7 +8,7 @@
 [Autores](#autores)  
 
 # 💕Projeto - Portfólio para escrita do README
-
+![image](img/capa.png)
 ## ❤️Descrição
 
 ## 😘Funcionalidade
