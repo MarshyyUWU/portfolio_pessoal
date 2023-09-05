@@ -7,14 +7,14 @@
 [Fontes consultoras](#fontes-consultadas)  
 [Autores](#autores)  
 
-# Projeto - Portfólio para escrita do README
+# 💕Projeto - Portfólio para escrita do README
 
-## Descrição
+## ❤️Descrição
 
-## Funcionalidade
+## 😘Funcionalidade
 
-### Tecnologias utilizadas
+### 💖Tecnologias utilizadas
 
-## Fontes consultadas
+## 🥰Fontes consultadas
 
-## Autores
+## 😍Autores
